@@ -1,4 +1,4 @@
-# Matt-Carroll-Muscian
+# Matt-Carroll-Musician
 A portfolio website for singer songwriter Matt Carroll.
 
 This was the first website I created. I spoke to Matthew about what he wanted from a website, he asked for something that would show case his work and advertise new music material.
